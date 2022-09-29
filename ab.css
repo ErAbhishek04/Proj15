@@ -1,0 +1,19 @@
+
+body
+{
+    background-color: brown;
+}
+h1{
+    color: orange;
+}
+.man{
+    font-size: x-large;
+    color: red;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{  font-size: x-large;
+    background-color: orange;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
